@@ -9,7 +9,7 @@
 
 - 가장 먼저 넣은 데이터를 가장 먼저 꺼내는 구조 (선입선출(FIFO)) 
 
-- LILO(Last In, Last Out)구조인 스택과는 반대 
+- LIFO(Last In, First Out)구조인 스택과는 반대 
 
 - Enque로 que에 데이터를 넣고, Deque로 데이터를 꺼냄 
 
