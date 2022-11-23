@@ -1,4 +1,4 @@
-# [Java Studt] Ep3. Generic (1)
+# [Java Study] Ep3. Generic (1)
 
 # **1. 제네릭의 정의**
 
